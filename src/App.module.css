@@ -1,0 +1,25 @@
+.app {
+  background-color: #ccc;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.search {
+  text-align: center;
+  padding: 10px;
+}
+.pokemons {
+  margin-left: 5%;
+}
+.pokemon {
+  text-align: center;
+  width: 160px;
+  height: 134px;
+  background-color: white;
+  display: inline-block;
+  margin: 10px;
+}
+.pokemon p {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
